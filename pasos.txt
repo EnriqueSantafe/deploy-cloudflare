@@ -1,0 +1,15 @@
+https://www.youtube.com/watch?v=LQQ3CR2JTX8
+
+VITE-REACT:
+Escribo en la terminal: 'npm init @vitejs/app vite-react' donde 'vite-react' es el nombre del proyecto y elijo 'react'
+Escribo en la terminal: 'cd vite-react'
+Escribo en la terminal: 'npm install'
+Escribo en la terminal: 'npm run dev'
+Escribo en la terminal: 'npm run build'
+Escribo en la terminal: 'npm run preview'
+
+Voy a desplegar la aplicación 'vite-react' en Cloudflare Pages
+En VSC pulso en 'Control de código fuente' y luego pulso en 'Inicializar repositorio'. 
+En el input 'Mensaje(Ctrl+Enter para confirmar en "master") escribo 'first commit' y pulso Ctrl+Enter.
+Luego pulso en 'Publicar rama' y elijo 'Publish to GitHub public repository'
+Entro en 'https://dash.cloudflare.com/' y pulso 'Pages'
