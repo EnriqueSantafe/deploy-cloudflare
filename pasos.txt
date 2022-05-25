@@ -12,4 +12,8 @@ Voy a desplegar la aplicación 'vite-react' en Cloudflare Pages
 En VSC pulso en 'Control de código fuente' y luego pulso en 'Inicializar repositorio'. 
 En el input 'Mensaje(Ctrl+Enter para confirmar en "master") escribo 'first commit' y pulso Ctrl+Enter.
 Luego pulso en 'Publicar rama' y elijo 'Publish to GitHub public repository'
-Entro en 'https://dash.cloudflare.com/' y pulso 'Pages'
+Entro en 'https://dash.cloudflare.com/'
+'https://dash.cloudflare.com/ef4e1e83a33176c3b1acbc0b41e18e91'
+Pulso 'Pages'.
+Luego pulso 'Create a project' y pulso 'Connect to Git' y selecciono un repositorio 'deploy cloudflare' y pulso 'Begin setup'
+En Build command escribo 'npm run build' y en Build output directory escribo 'dist' y pulso 'Save and Deploy'
